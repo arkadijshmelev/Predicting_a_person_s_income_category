@@ -1,1 +1,1 @@
-# Predicting_a_person_s_income_category
+# Предсказание категории дохода человека
